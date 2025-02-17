@@ -9,7 +9,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alt-F17&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="150" alt="stats graph" padding: 10px;/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alt-F17&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph" padding: 10px;/>
-  <img src="https://streak-stats.demolab.com?user=Alt-F17&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" padding: 10px;/>
 </div>
 
 ###
@@ -20,15 +19,15 @@
 
 ###
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 
