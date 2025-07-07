@@ -42,6 +42,9 @@
   <a href="https://paypal.me/altf17" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=altf17&color=00457C&logoColor=blue&labelColor=&style=for-the-badge" height="33" alt="paypal logo"  />
   </a>
+  <a href="https://coff.ee/alt.f17" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Buy%20Me%20a%20Coffee&logo=buy-me-a-coffee&label=alt.f17&color=FFDD00&logoColor=black&labelColor=&style=for-the-badge" height="33" alt="buy me a coffee logo" />
+  </a>
 </div>
 
 
