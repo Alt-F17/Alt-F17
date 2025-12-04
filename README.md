@@ -5,6 +5,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&center=true&pause=1000&width=500&lines=Python+Developer;Always+learning+new+things;Cybersecurity+Enthusiast;Open+Source+Enjoyer;Building+elegant+solutions" alt="Typing SVG" /></a>
 </p>
 
+IMPORTANT NOTICE: Temporarily working on college related projects on GitLab
+
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alt-F17&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="150" alt="stats graph" padding: 10px;/>
